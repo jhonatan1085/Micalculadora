@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+    <string-array name="instruccion">
+        <item>Sin Instruccion</item>
+        <item>Primaria</item>
+        <item>Secundaria</item>
+        <item>Superior Tecnica</item>
+        <item>Superior Universitaria</item>
+    </string-array>
+</resources>
